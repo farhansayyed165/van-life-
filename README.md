@@ -1,6 +1,6 @@
-# co10b41a9932640566664d554
+# Van Life Application with React Router!
 
-Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
+Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` 
 
 Quick start:
 
@@ -10,6 +10,12 @@ $ npm start
 ````
 
 Head over to https://vitejs.dev/ to learn more about using vite
+
+## About Van Life
+Van Life is a dummy yet functional Web App made from React Router. 
+
+
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
